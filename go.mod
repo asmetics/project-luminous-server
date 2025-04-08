@@ -1,4 +1,4 @@
-module template-go-vercel
+module project-luminous-server
 
 go 1.20
 
